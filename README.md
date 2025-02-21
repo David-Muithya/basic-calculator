@@ -3,7 +3,9 @@ This project implements a simple calculator that can perform basic arithmetic op
 
 # Description
 This is a simple calculator program written in C++ that allows users to perform basic arithmetic operations: addition, subtraction, multiplication, and division. The program provides a menu-driven interface to select the desired operation and input the numbers. The program will continue to run until the user chooses to exit.
+
 **Features**
+
 Addition of two numbers
 
 Subtraction of two numbers
@@ -15,6 +17,7 @@ Division of two numbers (with error handling for division by zero)
 Menu-driven interface
 
 **How to Run**
+
 Compile the Program: Use a C++ compiler to compile the calculator.cpp file.
 ``sh
 g++ calculator.cpp -o calculator
