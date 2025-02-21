@@ -17,12 +17,14 @@ Menu-driven interface
 **How to Run**
 Compile the Program: Use a C++ compiler to compile the calculator.cpp file.
 ``sh
-g++ calculator.cpp -o calculator```
+g++ calculator.cpp -o calculator
 ``
+
 Run the Program: Execute the compiled program.
 ``sh
 ./calculator
 ``
+
 **usage**
 Run the program.
 
